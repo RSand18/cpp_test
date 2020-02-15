@@ -31,4 +31,5 @@ int main()
 {
 	printf("What floor would you like to go to? The current floor is %d, and the max floor is 15.", currentfloor);
 	scanf(playeranswer);
+	printf(playername);
 }
