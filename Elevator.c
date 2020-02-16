@@ -23,7 +23,7 @@ int movefloors(int x, int y)	//The minimum floor the elevator can hit
 /*
 for (int i; i <= currentfloor; i++)
 {
-
+	
 }
 */
 
@@ -31,5 +31,5 @@ int main()
 {
 	printf("What floor would you like to go to? The current floor is %d, and the max floor is 15.", currentfloor);
 	scanf(playeranswer);
-	printf(playername);
+	printf(playeranswer);
 }
