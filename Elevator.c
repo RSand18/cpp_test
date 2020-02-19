@@ -12,7 +12,7 @@ void changeFloor()
 	int i;
 	for (int i; i < currentfloor; i++)
 	{
-		printf("This is Floor: %d\n", i)
+		printf("This is Floor: %d\n", i);
 	}
 }
 
